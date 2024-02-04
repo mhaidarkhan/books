@@ -5,7 +5,7 @@
 ---
 #### Project 1: Excel Data Cleaning and Pivot Table Analysis
 
-- [Download Project Files (RAR)](https://mhaidarkhan.github.io/_data/Montgomery_Fleet_Equipment_Inventory_FA.rar)
+- [Download Project Files (RAR)](https://raw.githubusercontent.com/mhaidarkhan/mhaidarkhan.github.io/main/_data/Montgomery_Fleet_Equipment_Inventory_FA.rar)
   - Excel files: Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX and Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX.
   - Cleaned and prepared CSV data using Excel.
   - Formatted data, removed duplicates, fixed spelling errors, and optimized column widths.
