@@ -1,6 +1,6 @@
 # Books by Muhammad Haidar Khan
 
-
+---
 ## The Philosophy Blueprint
 ### Book Description:
 
@@ -32,3 +32,5 @@ Muhammad Haidar Khan was born and raised in Mandi Bahauddin, Pakistan. His insat
 This book is dedicated to Khan's mother, whose unwavering love and support have been instrumental in his philosophical journey. 
 
 "The Philosophy Blueprint" is more than just an introduction to philosophy; it's an invitation to join Khan in exploring the profound questions that define our existence and to leave the world a little better through understanding and wisdom.
+
+---
