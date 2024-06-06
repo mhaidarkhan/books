@@ -16,7 +16,7 @@ The book is structured to take readers step-by-step through the major branches o
 
 Khan also examines contemporary philosophical movements such as existentialism, pragmatism, and postmodernism, showing how these ideas shape our understanding of the world today. Throughout the book, he emphasizes the importance of questioning and critical thinking, encouraging readers to embrace their inner philosopher.
 
-**Key Chapters:**
+**Chapters:**
 1. **Introduction to Philosophy:** An overview of philosophy and its significance.
 2. **Philosophical Methods:** Detailed exploration of methods used by great philosophers like Socrates, Bacon, and Descartes.
 3. **Epistemology:** Examination of knowledge, rationalism, empiricism, and more.
