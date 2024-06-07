@@ -34,3 +34,13 @@ This book is dedicated to Khan's mother, whose unwavering love and support have 
 "The Philosophy Blueprint" is more than just an introduction to philosophy; it's an invitation to join Khan in exploring the profound questions that define our existence and to leave the world a little better through understanding and wisdom.
 
 ---
+## Random Words
+### Book Description:
+
+**Title:** The Philosophy Blueprint  
+**Author:** Muhammad Haidar Khan
+
+**Description:**
+This book is a poetic exploration of life's big questions. The author grapples with themes of faith, purpose, love, and compassion. Through beautiful imagery and metaphors, the book encourages the reader to embrace curiosity, find meaning in their life, and spread kindness to others. Some poems are infused with Islamic faith and explore the concept of living a purposeful life according to Allah's will.
+
+---
