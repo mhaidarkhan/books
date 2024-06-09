@@ -8,11 +8,13 @@
 **Author:** Muhammad Haidar Khan
 
 **Description:**
-"The Philosophy Blueprint" by Muhammad Haidar Khan is a thought-provoking guide that simplifies the complex world of philosophy, making it accessible to everyone. Born from the author's lifelong curiosity and passion for learning, this book aims to explore the essence of philosophical inquiry and its relevance in our daily lives.
+"The Philosophy Blueprint" by Muhammad Haidar Khan is a thought-provoking guide that simplifies the complex world of philosophy, making it accessible to everyone. Inspired by the author's lifelong curiosity and passion for learning, this book explores the essence of philosophical inquiry and its relevance in our daily lives.
 
-From an early age, Khan's relentless questioning and search for meaning led him to challenge conventional beliefs and seek deeper understanding. This book reflects his journey and invites readers to embark on their own philosophical exploration. Using the KISS (KEEP IT SUPER SIMPLE) methodology, Khan demystifies philosophical concepts, making them easy to grasp and apply.
+Khan's journey began with a relentless questioning and search for meaning, challenging conventional beliefs to seek deeper understanding. This book reflects his journey and invites readers to embark on their own philosophical exploration. Using the KISS (KEEP IT SUPER SIMPLE) methodology, Khan demystifies philosophical concepts, making them easy to grasp and apply.
 
-The book is structured to take readers step-by-step through the major branches of philosophy. Starting with an introduction to the fundamental nature of philosophy, it covers various philosophical methods including the Socratic, inductive, deductive, and dialectical methods. It delves into epistemology, exploring the nature of knowledge through rationalism, empiricism, and other schools of thought. The discussion extends to ontology, ethics, and the contributions of Muslim thinkers, highlighting the richness of Islamic philosophical tradition.
+The book is structured to guide readers step-by-step through the major branches of philosophy. It starts with an introduction to the fundamental nature of philosophy and covers various philosophical methods, including the Socratic, inductive, deductive, and dialectical methods. It delves into epistemology, exploring the nature of knowledge through rationalism, empiricism, and other schools of thought. The discussion extends to ontology, ethics, and the contributions of Muslim thinkers.
+
+This book is especially valuable for CSS aspirants, as it provides a strong foundation and covers most of the topics from the CSS syllabus in a clear and concise manner.
 
 Khan also examines contemporary philosophical movements such as existentialism, pragmatism, and postmodernism, showing how these ideas shape our understanding of the world today. Throughout the book, he emphasizes the importance of questioning and critical thinking, encouraging readers to embrace their inner philosopher.
 
@@ -28,7 +30,7 @@ This book is dedicated to Khan's mother, whose unwavering love and support have 
 ## Random Words
 ### Book Description:
 
-**Title:** The Philosophy Blueprint  
+**Title:** Random Words
 **Author:** Muhammad Haidar Khan
 
 **Description:**
