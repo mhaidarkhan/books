@@ -22,9 +22,7 @@ Khan also examines contemporary philosophical movements such as existentialism, 
 Muhammad Haidar Khan was born and raised in Mandi Bahauddin, Pakistan. His insatiable curiosity and love for learning have driven him to constantly question and seek deeper understanding. Inspired by the words of Socrates, Khan believes that true wisdom lies in acknowledging our ignorance and embracing the journey of lifelong learning. Through this book, he aims to inspire others to think critically, ask questions, and explore the profound mysteries of life.
 
 **Dedication:**
-This book is dedicated to Khan's mother, whose unwavering love and support have been instrumental in his philosophical journey. 
-
-"The Philosophy Blueprint" is more than just an introduction to philosophy; it's an invitation to join Khan in exploring the profound questions that define our existence and to leave the world a little better through understanding and wisdom.
+This book is dedicated to Khan's mother, whose unwavering love and support have been instrumental in his life's journey. 
 
 ---
 ## Random Words
